@@ -10,14 +10,14 @@ body {
 
 
 h1 {
- background-color: rgb(255, 165, 0);
- color: hsl(147, 50%, 47%);
+ background-color: rgb(85, 0, 255);
+ color: hsl(184, 100%, 50%);
  padding: 40px;
  text-align: center;
 }
 
 p {
 
- background-color: #ff00ff;
+ background-color: #d620d6;
 
 }
