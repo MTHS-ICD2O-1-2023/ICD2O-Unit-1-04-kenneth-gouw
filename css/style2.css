@@ -3,12 +3,12 @@
 * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
 */
 body {
-  background-color: green;
+  background-color: rgb(128, 0, 94);
 }
 
 h1 {
   background-color: rgb(255, 0, 221);
-  color: hsl(239, 50%, 47%);
+  color: hsl(106, 50%, 47%);
   padding: 40px;
   text-align: center;
 }

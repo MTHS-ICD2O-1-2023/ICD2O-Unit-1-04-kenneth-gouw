@@ -4,20 +4,20 @@
 */
 
 body {
- background-color: powderblue;
+ background-color: rgb(56, 98, 4);
 }
 
 
 
 h1 {
- background-color: rgb(85, 0, 255);
- color: hsl(184, 100%, 50%);
+ background-color: rgb(255, 0, 208);
+ color: hsl(48, 100%, 50%);
  padding: 40px;
  text-align: center;
 }
 
 p {
 
- background-color: #d620d6;
+ background-color: #d62020;
 
 }
